@@ -1,0 +1,12 @@
+li {
+  list-style-type: none;
+  border: 1px solid red;
+  padding: 10px;
+  background: pink;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.hide {
+  transform: translateX(99999px);
+}
